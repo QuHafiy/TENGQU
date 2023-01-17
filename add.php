@@ -1,7 +1,7 @@
 <html>
 <body>
 	<head>
-		<title>Tambah Rekod</title>
+		<title>KEHADIRAN</title>
 		<style>
 	 #header {width:100%; height:60px; border:1px solid #333; background-color: beige; }
 	</style>
